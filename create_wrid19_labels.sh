@@ -1,5 +1,8 @@
 #!/bin/bash
 
+# quick-and-dirty implementation
+# TODO(someone): rewrite using Python Github module
+
 USER="ros-industrial"
 PASS="insert-token-here"
 
